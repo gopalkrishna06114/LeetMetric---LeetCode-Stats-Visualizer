@@ -17,7 +17,9 @@ Example: 👉 LeetMetric Live
 
 
 🛠️ Tech Stack
+
 Frontend: HTML, CSS (Flexbox, Conic Gradients), Vanilla JavaScript
+
 API: LeetCode GraphQL (via CORS proxy)
 
 

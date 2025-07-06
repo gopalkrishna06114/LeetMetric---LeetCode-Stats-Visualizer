@@ -1,4 +1,4 @@
-# 📈 LeetMetric - LeetCode Stats Visualizer
+📈 LeetMetric - LeetCode Stats Visualizer
 LeetMetric is a simple, interactive web application that helps LeetCode users track their problem-solving progress in a visually engaging way. By entering your LeetCode username, you can quickly view your solved problems, submission stats, and progress across Easy, Medium, and Hard difficulties using clean circular progress charts.
 
 

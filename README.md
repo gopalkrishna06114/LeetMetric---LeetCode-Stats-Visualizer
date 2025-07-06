@@ -40,7 +40,7 @@ leetmetric/
 
 4. Enter your LeetCode username and hit the Search button to see your stats.
 
-# ⚠️ Note: This project uses https://cors-anywhere.herokuapp.com/ as a CORS proxy for fetching LeetCode data. For production use, it's recommended to set up your own proxy server or backend.
+⚠️ Note: This project uses https://cors-anywhere.herokuapp.com/ as a CORS proxy for fetching LeetCode data. For production use, it's recommended to set up your own proxy server or backend.
 
 # 📌 Future Improvements
 1. Add loading spinners for better user experience.

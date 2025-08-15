@@ -4,7 +4,7 @@ LeetMetric is a simple, interactive web application that helps LeetCode users tr
 
 
 🚀 Live Demo
-Example: 👉 LeetMetric Live
+Link: 👉 [LeetMetric Live](https://leet-metric-leet-code-stats-visuali.vercel.app/)
 
 
 ✨ Features
